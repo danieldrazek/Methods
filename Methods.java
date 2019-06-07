@@ -1,4 +1,6 @@
-
+/*
+Napisz metodę, która sprawdzi czy temperatura przekazana jako argument jest dodatnia.
+*/
 package methods;
 
 import java.util.Scanner;
